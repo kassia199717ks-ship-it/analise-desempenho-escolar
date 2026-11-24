@@ -60,8 +60,3 @@ Conclui-se que a gestão escolar pode utilizar esses resultados para incentivar 
 - Nível de significância: 5% (α = 0,05).
 - O notebook seleciona o teste t de Welch ou Mann–Whitney conforme o diagnóstico de normalidade e imprime o valor-p e a decisão estatística.
 
-## Reflexão
-O projeto foi desenvolvido individualmente. A mesma pessoa realizou a escolha da base, preparação, análise, visualizações, interpretação e documentação. Completar a reflexão sobre o que foi mais simples em Python do que em planilhas após realizar a atividade.
-
-## Limitações
-Os dados descrevem estudantes de duas escolas de Portugal. Associação estatística não comprova causalidade e os resultados não devem ser generalizados automaticamente para outras populações.
