@@ -41,7 +41,7 @@ projeto-desempenho-escolar/
 O notebook lê a base com caminho relativo: `pd.read_csv('dados/student-por.csv', sep=';')`.
 
 ## Preparação dos dados
-O arquivo original foi mantido sem alterações. Para realizar a análise, utilizou-se uma cópia dos dados, na qual foram feitas verificações de valores ausentes, registros duplicados, tipos de informações e possíveis valores fora do esperado. Em cada análise, foram consideradas apenas os dados válidos para as variáveis utilizadas.
+O arquivo original foi mantido sem alterações. Para realizar a análise, utilizou-se uma cópia dos dados, na qual foram feitas verificações de valores ausentes, registros duplicados, tipos de informações e possíveis valores fora do esperado. Em cada análise, foram considerados apenas os dados válidos para as variáveis utilizadas.
 
 ## Principais conclusões
 A análise dos dados de 649 estudantes permitiu identificar relações entre hábitos de estudo, frequência escolar e desempenho acadêmico.
