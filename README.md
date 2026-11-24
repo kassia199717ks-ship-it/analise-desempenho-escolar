@@ -1,7 +1,7 @@
 # Análise do desempenho escolar de estudantes
 
 ## Integrante
-- **Nome:** [preencha com seu nome]
+- **Nome:** Ana de Kassia da Silva Soares
 
 ## Objetivo
 Investigar fatores associados às notas finais de estudantes de Língua Portuguesa, utilizando dados públicos do UCI Machine Learning Repository.
