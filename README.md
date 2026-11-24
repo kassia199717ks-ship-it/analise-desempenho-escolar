@@ -44,7 +44,15 @@ O notebook lê a base com caminho relativo: `pd.read_csv('dados/student-por.csv'
 O arquivo original é preservado. O notebook cria uma cópia em memória para conferir valores ausentes, duplicatas, tipos e faixas. Para cada análise, utiliza apenas os registros com valores válidos nas variáveis envolvidas.
 
 ## Principais conclusões
-**Preencher após executar o notebook.** Registrar aqui os resultados reais das três análises, incluindo o teste escolhido e o valor-p. Não inserir conclusões antes de conferir a saída do notebook.
+**A análise dos dados de 649 estudantes permitiu identificar relações entre hábitos de estudo, frequência escolar e desempenho acadêmico.
+
+Os resultados indicaram que os estudantes que dedicam mais horas aos estudos tendem a apresentar notas finais mais elevadas, principalmente no grupo que estuda de 5 a 10 horas por semana.
+
+Também foi identificada uma correlação negativa fraca entre o número de faltas e a nota final (Spearman = -0,159; p = 0,00005), indicando que o aumento das ausências está associado a uma pequena redução no desempenho.
+
+Na comparação entre os sexos, foi observada diferença estatisticamente significativa nas notas finais (Mann-Whitney; p = 0,000632), com média de 12,25 para o grupo feminino e 11,41 para o masculino.
+
+Conclui-se que a gestão escolar pode utilizar esses resultados para incentivar hábitos de estudo, acompanhar a frequência dos alunos e identificar dificuldades de aprendizagem, desenvolvendo ações que contribuam para melhorar o desempenho escolar e garantir oportunidades iguais para todos.
 
 ## Teste de hipótese
 - H₀: não há diferença entre os grupos comparados.
